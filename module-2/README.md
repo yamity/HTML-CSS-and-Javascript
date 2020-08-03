@@ -4,5 +4,5 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see output [CLICK HERE](https://yamity.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
+# To see output [CLICK HERE](https://github.com/yamity/HTML-CSS-and-Javascript/blob/master/module-2/index.html)
 
